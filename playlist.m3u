@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Made by Aish", E1 to 4
 https://lp.vikingfile.com/download/MTNVxyi8Zq/S01E01T04%20Dual%20x265%20MSub.mkv?md5=fQynA7M0kn8HfVrWxlK6ag&expires=1787178948
-#EXTINF:-1 tvg-name="Kanali 7 ?" tvg-logo="https://imgur.com/a/HNGj4zU" tvg-id="Kanali7.al" group-title="Hindi Movie", Movie_480p
-https://aish-project-7b.freakineinsane.workers.dev/file/1VLqiqkUc1mmzSjRoZlW29J0l7b0QrUbT
+#EXTM3U
+#EXTINF:-1,My 5GB Movie Dual
+https://gdrive-proxy-xyz.workers.dev/file/1AbCdEFGhIjKlMn
