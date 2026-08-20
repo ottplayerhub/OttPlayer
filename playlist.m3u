@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="E1-E4 Hindi Dual" tvg-logo="https://i.postimg.cc/1src5S4N/IMG-20260820-WA0165.jpg/" group-title="Aish - Kanali 7",E1
+https://rozgarlelo.modiplay.xyz/proxy.php?serve_m3u8=1&ref=https%3A%2F%2Fhanerix.com%2Fe%2Fzk5cjchm99zz&url=https%3A%2F%2Fhanerix.com%2Fstream%2FuCPl5QU1WVJhdreXDvABVA%2Fkjhhiuahiuhgihdf%2F1787238223%2F69564925%2Fmaster.m3u8&ebd=https%3A%2F%2Fhanerix.com
+#EXTM3U
 #EXTINF:-1 tvg-name="E1-E4 Hindi Dual" tvg-logo="https://i.postimg.cc/1src5S4N/IMG-20260820-WA0165.jpg/" group-title="Aish - Kanali 7",E1 to 4
 https://pixeldrain.dev/api/file/KEangu1D
 #EXTINF:-1 tvg-name="E5-E8 Hindi Dual" tvg-logo="https://i.postimg.cc/1src5S4N/IMG-20260820-WA0165.jpg" group-title="Aish - Kanali 7",E5 to 8
