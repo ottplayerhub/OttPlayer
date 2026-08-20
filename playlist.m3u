@@ -1,11 +1,10 @@
-#EXTM3U x-ott-navigator="true" x-block-other="1"
-#EXTINF:-1 x-group="Made by Aish" x-episodes="1-4" tvg-name="Kanali 7" tvg-logo="https://i.imgur.com/HNGj4zU.png",E1 to 4
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=
-https://lp.vikingfile.com/download/MTNVxyi8Zq/S01E01T04%20Dual%20x265%20MSub.mkv?md5=fQynA7M0kn8HfVrWxlK6ag&expires=1787178948
-#EXTINF:-1 x-group="Made by Aish" x-episodes="5-8" tvg-name="Kanali 7",Episode 5 to 8
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://pixeldrain.dev/api/file/MeaNnem5
-#EXTINF:-1 x-group="Made by Aish" x-episodes="9-12" tvg-name="Kanali 7",Episode 9 to 12
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://pixeldrain.dev/api/file/X7aC7dAD
+#EXTM3U
+#EXTINF:-1 tvg-name="Kanali 7 - E1 to 4" group-title="Made by Aish",E1 to 4
+#EXTVLCOPT:http-user-agent=OTTNavigator/2.0
+https://lp.vikingfile.com/download/MTNVxyi8Zq/S01E01T04%20Dual%20x265%20MSub.mkv?md5=fQynA7M0kn8HfVrWxlK6ag&expires=1787178948&ua=OTT
+#EXTINF:-1 tvg-name="Kanali 7 - E5 to 8" group-title="Made by Aish",Episode 5 to 8  
+#EXTVLCOPT:http-user-agent=OTTNavigator/2.0
+https://pixeldrain.dev/api/file/MeaNnem5?ua=OTT
+#EXTINF:-1 tvg-name="Kanali 7 - E9 to 12" group-title="Made by Aish",Episode 9 to 12
+#EXTVLCOPT:http-user-agent=OTTNavigator/2.0
+https://pixeldrain.dev/api/file/X7aC7dAD?ua=OTT
